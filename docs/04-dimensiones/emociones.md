@@ -52,7 +52,7 @@ Esto conecta con una de las distinciones transversales del proyecto:
 
 Las emociones no son solamente una idea verbal. La experiencia emocional puede incluir cambios corporales y la percepción de señales internas.
 
-La **interocepción** se refiere a la capacidad de percibir, interpretar y responder a señales internas del cuerpo. La investigación reciente la relaciona con procesos de regulación emocional y adaptación, pero también muestra que su desarrollo es complejo y que la evidencia en niños y adolescentes todavía tiene limitaciones. citeturn0search1turn0search2
+La **interocepción** se refiere a la capacidad de percibir, interpretar y responder a señales internas del cuerpo. La investigación reciente la relaciona con procesos de regulación emocional y adaptación, pero también muestra que su desarrollo es complejo y que la evidencia en niños y adolescentes todavía tiene limitaciones.
 
 Por eso, Manual de Vida puede enseñar preguntas como:
 
@@ -78,7 +78,7 @@ No es una ley universal ni una explicación clínica completa. Es una herramient
 
 La regulación emocional debe presentarse como un conjunto de procesos y estrategias, no como una única técnica.
 
-La literatura científica muestra que la regulación emocional en niños y adolescentes es un campo multidimensional y que existen diferencias importantes en cómo se define y mide. Una revisión sistemática reciente también señala limitaciones en la calidad psicométrica de muchas medidas utilizadas en investigación. citeturn0search4turn0search6
+La literatura científica muestra que la regulación emocional en niños y adolescentes es un campo multidimensional y que existen diferencias importantes en cómo se define y mide. Una revisión sistemática reciente también señala limitaciones en la calidad psicométrica de muchas medidas utilizadas en investigación.
 
 Por ello, el proyecto deberá evitar promesas como “aprende a controlar tus emociones” y favorecer objetivos observables como:
 
@@ -96,7 +96,7 @@ Aquí aparece una oportunidad central de diseño.
 
 No queremos copiar *Inside Out*. Queremos estudiar una idea narrativa útil: convertir procesos internos que no podemos ver directamente en elementos que una persona pueda explorar.
 
-Pixar utiliza un mundo visual dentro de la mente de Riley para representar emociones, recuerdos, identidad y cambios asociados a la adolescencia. La propia documentación oficial describe la película como una exploración narrativa de estos procesos, no como un modelo científico exhaustivo. citeturn0search0
+Pixar utiliza un mundo visual dentro de la mente de Riley para representar emociones, recuerdos, identidad y cambios asociados a la adolescencia. Esto se utiliza aquí como **referencia narrativa y de diseño**, no como modelo científico exhaustivo.
 
 En Manual de Vida podemos desarrollar representaciones propias, por ejemplo:
 
@@ -123,12 +123,12 @@ Cuando una experiencia emocional sugiera riesgo, violencia, abuso, autolesión, 
 
 ## Fuentes iniciales
 
-- UNICEF Uruguay — emociones en la infancia y desarrollo de habilidades socioemocionales. citeturn0search7
-- May & Tapert (2025) — interocepción durante la adolescencia. citeturn0search1
-- Suprihatiningrum & Wahyuningsih (2026) — revisión sobre conciencia interoceptiva en niños y jóvenes. citeturn0search2
-- Braet et al. — interocepción, conciencia emocional y regulación en adolescentes; resultados no concluyentes y necesidad de investigación longitudinal. citeturn0search3
-- Bunz et al. (2026) — revisión sistemática de medición de regulación emocional en niños y adolescentes. citeturn0search4
-- Pixar — *Inside Out 2*, como referencia narrativa y de diseño, no como fuente científica. citeturn0search0
+- UNICEF Uruguay — “Las emociones en la infancia: ¿cómo aprenden niños y niñas a manejarlas?” — https://www.unicef.org/uruguay/crianza/etapa-escolar/las-emociones-en-la-infancia-como-aprenden-ninos-y-ninas-manejarlas
+- May & Tapert (2025) — “Interoception in Adolescence: Impacts on Mental Health and Adaptive Functioning” — https://pubmed.ncbi.nlm.nih.gov/40244534/
+- Suprihatiningrum & Wahyuningsih (2026) — revisión sobre conciencia interoceptiva en niños y jóvenes — https://pubmed.ncbi.nlm.nih.gov/42700146/
+- Braet et al. — interocepción, conciencia emocional y regulación en adolescentes — https://pubmed.ncbi.nlm.nih.gov/39303215/
+- Bunz et al. (2026) — revisión sistemática de regulación emocional en niños y adolescentes — https://pmc.ncbi.nlm.nih.gov/articles/PMC13321600/
+- Pixar — *Inside Out 2* — https://www.pixar.com/inside-out-2
 
 ## Estado
 
